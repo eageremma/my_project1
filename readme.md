@@ -78,7 +78,7 @@ Each row represents:
 
 ## Tools & Skills Demonstrated
 
-- **Python** – data manipulation and analysis
+- **Excel and Python** – for data manipulation and analysis
 - **pandas / NumPy** – cleaning, aggregation, reshaping
 - **matplotlib** – exploratory visualisation
 - **Exploratory Data Analysis (EDA)**
