@@ -157,7 +157,7 @@ This validates the internal consistency of the dataset.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/uk-wellbeing-analysis.git
+git clone https://github.com/eageremma/uk-wellbeing-analysis.git
 ```
 
 2. Install required packages:
